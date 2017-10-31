@@ -1,5 +1,5 @@
 # BUSCA CEPS
-Busca CEP (Código de Endereçamento Postal) de Goiania e regiāo. 
+Busca CEP (Código de Endereçamento Postal) das regiões de Goiânia e afins. 
 
 ## Para rodar esse projeto
 
